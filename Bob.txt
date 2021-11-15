@@ -1,3 +1,4 @@
 Hi! I'm Bob. I'm new here
 A new line added.
+Another new line is added.
 Another new line is inserted.
